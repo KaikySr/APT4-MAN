@@ -1,0 +1,30 @@
+.card {
+    background-color: #111;
+    width: 450px;
+    height: auto;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.nameStatus {
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bolinhaVermelha {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.bolinhaVerde {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: green;
+}
+
