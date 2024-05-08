@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import style from './Card.module.css'
 
 export const Card = ({name, desc, categ, value, image, status}) => {
